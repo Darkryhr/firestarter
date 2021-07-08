@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tictactoe-74eb6": {
+      "hosting": {
+        "firestarter": [
+          "tictactoe-74eb6"
+        ]
+      }
+    }
+  }
+}

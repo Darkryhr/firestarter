@@ -1,7 +1,7 @@
 import { CdkDragDrop, moveItemInArray } from '@angular/cdk/drag-drop';
 import { BoardService } from './../board.service';
 import { Component, Input } from '@angular/core';
-import { Board } from '../board.model';
+import { Board, Task } from '../board.model';
 import { MatDialog } from '@angular/material/dialog';
 import { TaskDialogComponent } from '../dialogs/task-dialog.component';
 
